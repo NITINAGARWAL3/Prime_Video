@@ -107,7 +107,8 @@ o 	Line chart for Titles over Time (1920–2021).
   
   
 Deliverables: 
-<img width="1429" height="782" alt="Screenshot 2025-11-07 105929" src="https://github.com/user-attachments/assets/027712c0-e4a5-4739-9e58-355911dbbc7c" />
+<img width="1269" height="707" alt="image" src="https://github.com/user-attachments/assets/c1faaa14-76d2-4f3e-831e-895ef84abc4b" />
+
 
  
  
